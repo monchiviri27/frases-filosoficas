@@ -17,10 +17,10 @@ const frases = [
 
     {
     id:3,
-    filosofo : "Jean-Paul Sartre",
+    author : "Jean-Paul Sartre",
     img:"./img/Jean_Paul_Sartre.jpg",
-    frase : " No juzgamos a las personas que amamos.",
-    texto:"Resulta complicado reflexionar sobre nosotros mismos y conocernos porque siempre cuesta menos buscar los defectos en los demás. Para crecer como personas y para ser felices es necesario el autoconocimiento."
+    frase: " No juzgamos a las personas que amamos.",
+    
     },
         
     {
