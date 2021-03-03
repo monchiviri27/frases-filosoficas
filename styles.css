@@ -6,13 +6,6 @@
     box-sizing: border-box;
 }
 
-body{    
-    width: 100%;
-    height: 100vh;
-    background: #023341;
-}
-
-
 .container{
     position: relative;
     width: 100%;
@@ -69,7 +62,7 @@ h1{
 }
 
 .img img{
-    width: 150px;
+    width: 140px;
     height: 150px;
     border-radius: 50%;
     align-items: center;
@@ -174,4 +167,26 @@ h1{
     background: #f8d697;
     color:#084252 ;
     border-color: #f8d697;
+}
+
+@media(max-width:500px){
+    .container{
+        width: 100%;
+    }
+    h1{
+        font-size: 25px;
+    
+    }
+    #author{
+        font-size: 20px;
+    }
+   .tarjeta{
+       width: 95%;
+       height: 600px;
+   }
+   #frase{
+       width: 90%;
+       font-size: 15px;
+   }
+
 }
