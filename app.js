@@ -117,62 +117,102 @@ const frases = [
         id:11,
         author: "Bertrand Russell",
         img:"./img/bertrandRussell.jpg",        
-        frase1: "Nunca moriría por mis creencias porque podría estar equivocado"
+        frase1: "Nunca moriría por mis creencias porque podría estar equivocado",
+        frase2: "_¿Para qué repetir los errores antiguos habiendo tantos errores nuevos que cometer?",
+        frase3: "_El sabio uso del ocio es un producto de la civilización y de la educación.",
+        frase4: "_Entre todas las formas de cautela, la cautela en el amor es, posiblemente, la más letal para la auténtica felicidad.",
+        frase5: "Una buena vida es aquella inspirada por el amor y guiada por la inteligencia."
     },
     {
         id:12,
         author: "Maquiavelo",
         img:"./img/maquiavelo.jpg",        
-        frase1: "Todo el mundo ve lo que aparentas ser, pocos experimentan lo que realmente eres"
+        frase1: "_Todo el mundo ve lo que aparentas ser, pocos experimentan lo que realmente eres.",
+        frase2: "_El que no detecta los males cuando nacen, no es verdaderamente prudente.",
+        frase3: "_Los hombres olvidan con mayor rapidez la muerte de su padre que la pérdida de su patrimonio.", 
+        frase4: "_Puede combinarse perfectamente el ser temido y el no ser odiado.",
+        frase5: "_Cada uno ve lo que parece, pero pocos palpan lo que eres."   
     },
     {
         id:13,
         author: "Epíteto",
         img:"./img/epiteto.jpg",        
-        frase1: "No es lo que te ocurre, sino cómo reaccionas lo que importa"
+        frase1: "No es lo que te ocurre, sino cómo reaccionas lo que importa",
+        frase2: "_No son las cosas que nos pasan las que nos hacen sufrir, sino lo que nosotros nos decimos sobre esas cosas.",
+        frase3: "_En cuanto a todas las cosas que existen en el mundo, unas dependen de nosotros, otras no.",
+        frase4: "_Si hablan mal de ti, y es verdad, corrígete a ti mismo; si es una mentira, ríete de ella.",
+        frase5: "_Es más necesario que el alma se cure que el cuerpo; porque es mejor morir que vivir mal."
     },
     {
         id:14,
         author: "Rousseau",
         img:"./img/rousseau.jpg",        
-        frase1: "La paciencia es amarga, pero su fruto es dulce"
+        frase1: "_La paciencia es amarga, pero su fruto es dulce",
+        frase2: "_El hombre es un milagro sin interés.",
+        frase3: "_Hay un libro abierto siempre para todos los ojos: la naturaleza.",
+        frase4: "_Prefiero ser un hombre de paradojas que un hombre de prejuicios.",
+        frase5: "_Prefiero ser un hombre de paradojas que un hombre de prejuicios."
     },
     {
         id:15,
         author: "San Agustín",
         img:"./img/sanAgustin.jpg",        
-        frase1: "La medida del amor es amar sin medida"
+        frase1: "La medida del amor es amar sin medida",
+        frase2: "_Conócete, acéptate, supérate.",
+        frase3: "_No hubo tiempo alguno en que no hubiese tiempo.",
+        frase4: "_Obedeced más a los que enseñan que a los que mandan.",
+        frase5: "_Así como toda carencia es desgracia, toda desgracia es carencia."
     },
     {
         id:16,
         author: "René Descartes",
         img:"./img/descartes.jpg",        
-        frase1: "Vivir sin filosofar es, propiamente, tener los ojos cerrados, sin tratar de abrirlos jamás"
+        frase1: "_Vivir sin filosofar es, propiamente, tener los ojos cerrados, sin tratar de abrirlos jamás.",
+        frase2: "_Cogito, ergo sum.",
+        frase3: "_Todo lo complejo puede dividirse en partes simples.",
+        frase4: "_Para investigar la verdad es preciso dudar, en cuanto sea posible, de todas las cosas.",
+        frase5: "_Sería absurdo que nosotros, cosas finitas, tratáramos de determinar las cosas infinitas."
     },
     {
         id:17,
         author: "Kant",
         img:"./img/kant.jpg",        
         frase1: "_Vemos las cosas, no como son, sino como somos nosotros.",
-        frase2:"_Tan sólo por la educación puede el hombre llegar a ser hombre. El hombre no es más que lo que la educación hace de él."
+        frase2:"_Tan sólo por la educación puede el hombre llegar a ser hombre. El hombre no es más que lo que la educación hace de él.",
+        frase3: "_Conceptos sin intuiciones son vacíos, intuiciones sin conceptos son ciegas.",
+        frase4: "_La felicidad no es un ideal de la razón, sino de la imaginación.",
+        frase5: "_Tuve que eliminar conocimiento para hacerle espacio a la creencia."
     },
     {
         id:18,
         author: "Diógenes El Cínico",
         img:"./img/diogenes.jpg",        
-        frase1: "_Cuanto más conozco a la gente, más quiero a mi perro"
+        frase1: "_Cuanto más conozco a la gente, más quiero a mi perro",
+        frase2: "_La base de cada estado es la educación de su juventud.",
+        frase3: "_El sol también penetra en los retretes, pero no está contaminado por ellos.",
+        frase4: "_El insulto deshonra a quien lo infiere, no a quien lo recibe",
+        frase5: "_Es preferible la compañía de los cuervos a la de los aduladores, pues aquellos devoran a los muertos y estos a los vivos."
     },
     {
         id:19,
         author: "Voltaire",
         img:"./img/voltaire.jpg",        
-        frase1: "_Quienes creen que el dinero lo hace todo terminan haciendo todo por dinero."
+        frase1: "_Quienes creen que el dinero lo hace todo terminan haciendo todo por dinero.",
+        frase2: "_Piensa por ti mismo y deja que otros gocen del privilegio de hacerlo también.",
+        frase3: "_Al ser incapaz de hacer que la gente sea más razonable, he preferido ser feliz lejos de ellos.",
+        frase4: "_El mundo me da vergüenza, y no puedo soñar que existe este reloj y no tiene ningún relojero.",
+        frase5: "_La perfección se alcanza poco a poco, lentamente; requiere la mano del tiempo."
+
     },
     {
         id:20,
         author: "John Locke",
         img:"./img/locke.jpg",        
-        frase1: "_ Frecuentemente hay más que aprender de las preguntas inesperadas de un niño que de los discursos de un hombre."
+        frase1: "_ Frecuentemente hay más que aprender de las preguntas inesperadas de un niño que de los discursos de un hombre.",
+        frase2: "_La fortaleza es la protección de las demás virtudes.",
+        frase3: "_Las leyes se hicieron para los hombres y no los hombres para las leyes.",
+        frase4: "_Donde no hay propiedad no hay justicia.",
+        frase5: "_Las acciones humanas son las intérpretes de nuestros pensamientos."
     },
 
 ];
